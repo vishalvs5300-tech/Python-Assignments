@@ -2,7 +2,7 @@
 
 num = int(input("Enter a number: "))
 
-# If - else condition:
+# Use of If-Else
 if num % 2 == 0:
     print(f"{num} is an even number.")
 else:
